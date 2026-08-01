@@ -160,7 +160,7 @@ const getUnmuteRow = (userId) => {
 // 3. Markii bot-ku uu online soo galo
 client.once('ready', async () => {
     console.log(`🎉 Sky 🌟 waa diyaar! ${client.user.tag}`);
-    client.user.setActivity('Maamulka Server-ka', { type: ActivityType.Watching });
+    client.user.setActivity('MAMULKA BOTKA', { type: ActivityType.Watching });
 
     const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
     try {
