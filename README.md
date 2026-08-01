@@ -2,24 +2,22 @@
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=1525477004005085287&permissions=8&scope=bot%20applications.commands">
-    <img src="https://img.shields.io/badge/🤖_Invite_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Bot">
+    <img src="https://img.shields.io/badge/Invite%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Bot">
   </a>
   &nbsp;
   <a href="https://discord.gg/hGZFbA7QU">
-    <img src="https://img.shields.io/badge/💬_Support_Server-57F287?style=for-the-badge&logo=discord&logoColor=white" alt="Support Server">
+    <img src="https://img.shields.io/badge/Support%20Server-57F287?style=for-the-badge&logo=discord&logoColor=white" alt="Support Server">
   </a>
 </p>
-
-# ☁️ Sky Discord Bot
 
 A modern and powerful Discord moderation bot built with slash commands.
 
 ## ✨ Features
 
-* 🔒 `/lock` – Lock the current channel.
-* 🔓 `/unlock` – Unlock the current channel.
-* 👢 `/kick` – Kick a member.
-* 🐌 `/slowmode` – Set slowmode.
+* 🔒 `/lock`
+* 🔓 `/unlock`
+* 👢 `/kick`
+* 🐌 `/slowmode`
 * ⚡ Fast and easy to use.
 
 ---
@@ -32,14 +30,3 @@ A modern and powerful Discord moderation bot built with slash commands.
   <b>Sky Discord Bot</b><br>
   Powerful • Fast • Easy to Use
 </p>
-
----
-
-## 🔗 Links
-
-* 🤖 **Invite Bot:** https://discord.com/oauth2/authorize?client_id=1525477004005085287&permissions=8&scope=bot%20applications.commands
-* 💬 **Support Server:** https://discord.gg/hGZFbA7QU
-
----
-
-Made with ❤️ for the Discord Community.
