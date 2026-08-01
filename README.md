@@ -1,48 +1,22 @@
-## 📖 Usage
+# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="35"/> Sky Discord Bot
 
-1. Install the required dependencies.
-2. Configure the environment variables.
-3. Start the application.
-4. Follow the on-screen instructions.
-5. Enjoy using the project!
+A modern and powerful Discord moderation bot built with slash commands.
 
----
+## ✨ Features
 
-## 📂 Folder Structure
-
-```text
-project/
-├── src/
-├── config/
-├── assets/
-├── logs/
-├── requirements.txt
-├── .env.example
-├── README.md
-└── index.js
-```
+* 🔒 `/lock` – Lock the current channel.
+* 🔓 `/unlock` – Unlock the current channel.
+* 👢 `/kick` – Kick a member.
+* 🐌 `/slowmode` – Set slowmode.
+* ⚡ Fast and easy to use.
 
 ---
 
-## 🛠️ Requirements
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="80" alt="Discord Logo">
+</p>
 
-* Python 3.10 or newer
-* pip
-* Git
-* Internet connection (if required)
-* Required packages listed in `requirements.txt`
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project under the terms of the license.
-
----
-
-## 👤 Developer
-
-**Developer:** Rick
-**GitHub:** https://github.com/yourusername
-**Discord:** yourusername
-**Email:** [your@email.com](mailto:your@email.com)
+<p align="center">
+  <b>Sky Discord Bot</b><br>
+  Powerful • Fast • Easy to Use
+</p>
