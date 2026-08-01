@@ -11,10 +11,10 @@
   </a>
   <br/><br/>
   <!-- Links Buttons -->
-  <a href="https://discord.com/oauth2/authorize?client_id1525477004005085287=&permissions=8&integration_type=0&scope=bot">
+  <a href="https://discord.com/oauth2/authorize?client_id=1525477004005085287&permissions=8&integration_type=0&scope=bot">
     <img src="https://img.shields.io/badge/Add_Bot_To_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Bot" />
   </a>
-  <a href="https://discord.gg/262gP69dTf">
+  <a href="https://discord.gg/QxPskp6hm">
     <img src="https://img.shields.io/badge/Join_Support_Server-23272A?style=for-the-badge&logo=discord&logoColor=white" alt="Support Server" />
   </a>
 </div>
